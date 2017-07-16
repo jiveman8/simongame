@@ -1,0 +1,21 @@
+.simon_button {
+    cursor: pinter;
+    height: 50px;
+    width: 50px;
+}
+
+#red {
+    background: red;
+}
+
+#yellow {
+    background: yellow;
+}
+
+#green {
+    background: green;
+}
+
+#blue {
+    background: blue;
+}
